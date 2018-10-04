@@ -206,7 +206,6 @@
     <None Include="res\ITSRestart.rc2" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\..\downloads\bitmap2.bmp" />
     <Image Include="..\..\..\..\Downloads\dMH90Qb.bmp" />
     <Image Include="..\..\..\..\Downloads\dMH90Qb.png" />
     <Image Include="..\..\..\..\Downloads\zg2aXnwN_400x400 (1).bmp">
@@ -215,7 +214,6 @@
     <Image Include="..\..\..\..\Downloads\zg2axnwn_400x400__1__IVk_icon.ico">
       <DeploymentContent>true</DeploymentContent>
     </Image>
-    <Image Include="res\ITSRestart.ico" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -53,9 +53,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="res\ITSRestart.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
     <Image Include="..\..\..\..\Downloads\zg2aXnwN_400x400 (1).bmp">
       <Filter>Resource Files</Filter>
     </Image>
@@ -63,9 +60,6 @@
       <Filter>Resource Files</Filter>
     </Image>
     <Image Include="..\..\..\..\Downloads\dMH90Qb.png">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="..\..\..\..\downloads\bitmap2.bmp">
       <Filter>Resource Files</Filter>
     </Image>
     <Image Include="..\..\..\..\Downloads\dMH90Qb.bmp">
