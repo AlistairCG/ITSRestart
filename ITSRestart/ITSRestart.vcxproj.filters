@@ -53,16 +53,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\..\Downloads\zg2aXnwN_400x400 (1).bmp">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="..\..\..\..\Downloads\zg2axnwn_400x400__1__IVk_icon.ico">
-      <Filter>Resource Files</Filter>
-    </Image>
-    <Image Include="..\..\..\..\Downloads\dMH90Qb.bmp">
-      <Filter>Resource Files</Filter>
-    </Image>
     <Image Include="Logo.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="Icon.ico">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>

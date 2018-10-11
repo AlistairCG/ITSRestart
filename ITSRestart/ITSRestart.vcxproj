@@ -209,13 +209,7 @@
     <None Include="res\ITSRestart.rc2" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="..\..\..\..\Downloads\dMH90Qb.bmp" />
-    <Image Include="..\..\..\..\Downloads\zg2aXnwN_400x400 (1).bmp">
-      <DeploymentContent>true</DeploymentContent>
-    </Image>
-    <Image Include="..\..\..\..\Downloads\zg2axnwn_400x400__1__IVk_icon.ico">
-      <DeploymentContent>true</DeploymentContent>
-    </Image>
+    <Image Include="Icon.ico" />
     <Image Include="Logo.bmp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
