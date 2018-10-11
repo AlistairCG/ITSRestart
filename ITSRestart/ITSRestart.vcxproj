@@ -209,7 +209,9 @@
     <None Include="res\ITSRestart.rc2" />
   </ItemGroup>
   <ItemGroup>
-    <Image Include="Icon.ico" />
+    <Image Include="Icon.ico">
+      <DeploymentContent>true</DeploymentContent>
+    </Image>
     <Image Include="Logo.bmp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
